@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@700&display=swap');
+body{
+    background-color: #1E293B;
+    background-image: url("../../public/dots.svg") !important;
+    font-family: 'Albert Sans', sans-serif;
+
+}
+.profile-src{
+    border-radius: 16px;
+}
+.information-div{
+    background-color: #2D394D;
+    border-radius: 16px;
+}
